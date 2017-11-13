@@ -1,0 +1,119 @@
+
+QGIS 설치하기
+http://blog.daum.net/geoscience/1107
+
+구글어스 설치하기 L02
+http://blog.daum.net/geoscience/1108
+
+국토정보플랫폼에서 공간정보 다운로드하기 L03
+http://blog.daum.net/geoscience/1109
+
+엑셀데이터를 쉐이프파일로 변환하고 좌표계 정의하기 L01
+http://blog.daum.net/geoscience/1128
+
+수치지도 포맷변환하고 QGIS에서 열어보기 L04
+http://blog.daum.net/geoscience/1110
+
+QGIS에서 수치지도 투영법 정의하기 L05
+http://blog.daum.net/geoscience/1111
+
+QGIS에서 수치지도와 오픈레이어 중첩하기 L06
+http://blog.daum.net/geoscience/1112
+
+L06-QGIS에서 수치지도와 오픈레이어 중첩하기 
+http://blog.daum.net/geoscience/1112
+
+L07-네이버, 다음, 구글 웹지도 열어보기
+http://blog.daum.net/geoscience/1134
+
+L08-QGIS에서 스타일과 인쇄 구성하기
+http://blog.daum.net/geoscience/1115
+
+L09-현재 화면을 Google 어스로 전송하기
+http://blog.daum.net/geoscience/1116
+
+L10-QGIS에서 선택한 위치의 고도 정보 추출하기
+http://blog.daum.net/geoscience/1117
+
+L11-QGIS에서 3차원 공간정보 구현하기
+http://blog.daum.net/geoscience/1118
+
+L12-QGIS에서 여러 Shape 파일을 하나로 결합하기
+http://blog.daum.net/geoscience/1047
+
+L13-QGIS에서 서울시 도서관 밀도 분석하기
+http://blog.daum.net/geoscience/1049
+
+L14-QGIS에서 인쇄 구성하기
+http://blog.daum.net/geoscience/1050
+
+-----------------------------------------------------
+
+
+
+
+
+DAY3-L5-QGIS에서 새 벡터 레이어 만들고 피처 추가하기
+http://blog.daum.net/geoscience/1058
+
+QGIS에서 여러 Shape 파일을 하나로 결합하기
+http://blog.daum.net/geoscience/695
+
+
+
+
+
+DAY3-L7-국토정보플랫폼에서 DEM 다운로드하기
+http://blog.daum.net/geoscience/1060
+
+DAY3-L8-QGIS에서 종단면 분석하기
+http://blog.daum.net/geoscience/1061
+
+
+DAY3-L9-QGIS에서 3차원 공간정보 구현하기  ?
+http://blog.daum.net/geoscience/1062
+
+
+
+
+DAY2-L8-QGIS에서 구역 통계 계산하기
+http://blog.daum.net/geoscience/1052
+
+QGIS에서 Zonal Statistics(구역 통계) 기능 일괄 작업으로 실행하기
+http://blog.daum.net/geoscience/694
+
+
+
+
+QGIS Viewshed Analysis 플러그인을 이용한 가시권 분석
+http://blog.daum.net/geoscience/1086
+
+
+
+
+
+-------------------------------------------------------------
+법정동과 행정동 차이   http://pjulso2424.tistory.com/63
+                        http://developer88.tistory.com/144
+                        
+법정동 코드 조회  http://code.mogaha.go.kr/jsp/stdcode/regCodeL.jsp
+
+한국행정구역분류 현황 http://kssc.kostat.go.kr/ksscNew_web/kssc/common/CommonBoardList.do?gubun=1&strCategoryNameCode=019&strBbsId=kascrr&categoryMenu=014
+
+행정표준관리시스템   https://www.code.go.kr/jsp/index.jsp
+   기간코드조회 :  인천대학교     기관코드 : 7007971
+   
+                       
+*** 국가공간정보포털 오픈마켓 http://market.nsdi.go.kr  
+법정경계 읍면동  http://market.nsdi.go.kr/goods/detail.do?gno=14903  -  좌표계   GRS80/중부(200,000/500,000)
+행정경계 읍면   http://market.nsdi.go.kr/goods/detail.do?gno=12944  -  좌표계  GRS80/중부(200,000/500,000)  
+연속지적도 http://market.nsdi.go.kr/goods/detail.do?gno=12771   -  좌표계 Bessel/중부(200,000/500,000)
+연속수치지형도 http://market.nsdi.go.kr/goods/detail.do?gno=14943  -  좌표계 GRS80/UTM-K(단일평면직각좌표계)
+  지역별 또는 전국으로 연속된 형태의 데이터 구축이 필요한 분야, 
+   1/5000 수치지형도 1.0 및 2.0 활용분야 포함, 지도서비스분야, GIS관련 시스템분야, 
+  앱 프로그램 분야 등
+
+
+
+
+
